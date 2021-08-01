@@ -1,0 +1,1 @@
+Automatic color filtering selection
