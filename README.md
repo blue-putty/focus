@@ -1,5 +1,5 @@
 # Automatic color filtering
-Toggles on/off built-in Windows grayscale mode for better focus.
+Toggles  built-in Windows grayscale mode for better focusing based on time of day.
 
 ## What it does:
 
